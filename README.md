@@ -27,6 +27,7 @@ El programa utiliza los **valores y vectores propios** de la matriz asociada al 
 - **Reales y distintos**,
 - **Reales y repetidos**, o
 - **Complejos**
+
 Las soluciones se calculan de diferentes maneras.
 
 ## Referencias
