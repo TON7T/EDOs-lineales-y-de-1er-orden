@@ -23,11 +23,11 @@ Este programa permite:
 
 ### ¿Cómo funciona?
 
-El programa utiliza los **valores y vectores propios** de la matriz asociada al sistema de ecuaciones. Dependiendo de los valores propios (si son:
+El programa utiliza los **valores y vectores propios** de la matriz asociada al sistema de ecuaciones. Dependiendo de los valores propios:
 - **Reales y distintos**,
 - **Reales y repetidos**, o
-- **Complejos**),
-las soluciones se calculan de diferentes maneras.
+- **Complejos**
+Las soluciones se calculan de diferentes maneras.
 
 ## Referencias
 
