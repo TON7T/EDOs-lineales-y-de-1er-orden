@@ -34,8 +34,8 @@ Las soluciones se calculan de diferentes maneras.
 
 Para profundizar más sobre cómo se resuelven estos sistemas de EDOs, puedes consultar las siguientes fuentes:
 
-- [Referencia 1](Hoffman, K., & Kunze, R. (1971). Linear Algebra. Prentice-Hall.)
-- [Referencia 2](Robinson, J. (2004). An Introduction to Ordinary Differential Equations. Cambridge University Press.)
+- Hoffman, K., & Kunze, R. (1971). Linear Algebra. Prentice-Hall.
+- Robinson, J. (2004). An Introduction to Ordinary Differential Equations. Cambridge University Press.
 
 ---
 
